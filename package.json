@@ -12,5 +12,10 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Jan",
-	"description": "This is an freeCodeCamp curriculum project"
+	"description": "This is an freeCodeCamp curriculum project",
+	"keywords": [
+		"freeCodeCamp",
+		"curriculum",
+		"project"
+	]
 }
